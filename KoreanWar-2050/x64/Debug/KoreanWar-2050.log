@@ -1,0 +1,10 @@
+﻿  main.c
+D:\workspace\KoreanWar-2050\main.c(483,19): warning C4244: '-=': 'double'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\workspace\KoreanWar-2050\main.c(501,15): warning C4244: '-=': 'double'에서 'long'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\workspace\KoreanWar-2050\main.c(562,36): warning C4244: '+=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\workspace\KoreanWar-2050\main.c(574,36): warning C4244: '+=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\workspace\KoreanWar-2050\main.c(586,36): warning C4244: '+=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\workspace\KoreanWar-2050\main.c(598,36): warning C4244: '+=': 'double'에서 '__int64'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\workspace\KoreanWar-2050\main.c(522,1): warning C4717: 'War_start': 모든 제어 경로에서 재귀적입니다. 함수로 인해 런타임 스택 오버플로가 발생합니다.
+D:\workspace\KoreanWar-2050\main.c(522,1): warning C4716: 'War_start': 값을 반환해야 합니다.
+  KoreanWar-2050.vcxproj -> D:\workspace\KoreanWar-2050\x64\Debug\KoreanWar-2050.exe
